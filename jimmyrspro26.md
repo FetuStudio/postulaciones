@@ -70,3 +70,5 @@ Si es una falta grave, primero lo consultaría con Gabriel y, si es necesario, a
 
 ¿Conoces bots de moderación o herramientas de gestión?:
 Sí
+
+*© 2025 by Encantia is licensed under CC BY-NC-ND 4.0.*
