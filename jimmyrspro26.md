@@ -1,74 +1,80 @@
-#📋 **RESPUESTAS DE JIMMYRSPRO26**
-¿Estás en el servidor de Discord de Fetu Studio?:
-Sí
+# 📋 **RESPUESTAS DE JIMMYRSPRO26**
 
-Nombre de Discord:
-Jimmyrspro26
+## **¿Estás en el servidor de Discord de Fetu Studio?**  
+**Sí**
 
-Nombre completo:
-Jaime Romero Sánchez
+## **Nombre de Discord:**  
+**Jimmyrspro26**
 
-Correo electrónico:
-jaimelegends021@gmail.com
+## **Nombre completo:**  
+**Jaime Romero Sánchez**
 
-Edad:
-14-17 años
+## **Correo electrónico:**  
+**jaimelegends021@gmail.com**
 
-País y zona horaria:
-España (UTC +1, creo)
+## **Edad:**  
+**14-17 años**
 
-¿Has trabajado en proyectos colaborativos antes?:
-Sí
+## **País y zona horaria:**  
+**España (UTC +1, creo)**
 
-¿Qué esperas obtener al unirte a Fetu Studio?:
-Socializar y divertirme con otras personas del equipo
+## **¿Has trabajado en proyectos colaborativos antes?**  
+**Sí**
 
-¿Qué puedes aportar a la comunidad de Fetu Studio?:
-Programación, construcción y actuación de voz
+## **¿Qué esperas obtener al unirte a Fetu Studio?**  
+**Socializar y divertirme con otras personas del equipo**
 
-¿Tienes experiencia moderando o gestionando comunidades en Discord?:
-Sí
+## **¿Qué puedes aportar a la comunidad de Fetu Studio?**  
+**Programación, construcción y actuación de voz**
 
-¿Cuál es tu disponibilidad horaria para participar en actividades o proyectos?:
-Viernes, sábados, domingos y festivos
+## **¿Tienes experiencia moderando o gestionando comunidades en Discord?**  
+**Sí**
 
-¿Participas en otros servidores similares? Si es así, ¿cuáles?:
-Sí, en Jimmy-Studiop
+## **¿Cuál es tu disponibilidad horaria para participar en actividades o proyectos?**  
+**Viernes, sábados, domingos y festivos**
 
-¿Qué tan activo/a planeas ser en el servidor?:
-Varias veces a la semana
+## **¿Participas en otros servidores similares? Si es así, ¿cuáles?**  
+**Sí, en Jimmy-Studiop**
 
-¿Hay algo más que te gustaría que supiéramos sobre ti?:
-Soy heterosexual
+## **¿Qué tan activo/a planeas ser en el servidor?**  
+**Varias veces a la semana**
 
-¿Cómo conociste Fetu Studio?:
-Por TikTok
+## **¿Hay algo más que te gustaría que supiéramos sobre ti?**  
+**Soy heterosexual**
 
-¿A qué puesto te quieres presentar?:
-Actor de Voz y Moderador
+## **¿Cómo conociste Fetu Studio?**  
+**Por TikTok**
 
-#🎙️ **POSTULACIÓN - ACTOR DE VOZ**
-¿Qué tipo de voces puedes interpretar? (adjuntar demo si es posible):
-Voces como la de los guardias
+## **¿A qué puesto te quieres presentar?**  
+**Actor de Voz y Moderador**
 
-¿Tienes equipo propio de grabación? ¿Cuál?:
-Sí, uso el equipo de mi canal de YouTube
+---
 
-¿Tienes experiencia previa en doblaje, narración o RP?:
-Sí, he participado en "Los Palito Games"
+# 🎙️ **POSTULACIÓN - ACTOR DE VOZ**
 
-¿Eres menor de 17 pero tienes voz grave?:
-Sí
+## **¿Qué tipo de voces puedes interpretar? (adjuntar demo si es posible):**  
+**Voces como la de los guardias**
 
-#🛡️ **POSTULACIÓN - MODERADOR**
-¿Tienes experiencia moderando en Discord u otras plataformas?:
-Sí
+## **¿Tienes equipo propio de grabación? ¿Cuál?**  
+**Sí, uso el equipo de mi canal de YouTube**
 
-¿Qué harías si un miembro incumple las reglas de manera leve? ¿Y si es una falta grave?:
-Si es una falta leve, aplicaría una sanción temporal y lo informaría a Gabriel.
-Si es una falta grave, primero lo consultaría con Gabriel y, si es necesario, aplicaría un baneo permanente.
+## **¿Tienes experiencia previa en doblaje, narración o RP?**  
+**Sí, he participado en "Los Palito Games"**
 
-¿Conoces bots de moderación o herramientas de gestión?:
-Sí
+## **¿Eres menor de 17 pero tienes voz grave?**  
+**Sí**
 
-*© 2025 by Encantia is licensed under CC BY-NC-ND 4.0.*
+---
+
+# 🛡️ **POSTULACIÓN - MODERADOR**
+
+## **¿Tienes experiencia moderando en Discord u otras plataformas?**  
+**Sí**
+
+## **¿Qué harías si un miembro incumple las reglas de manera leve? ¿Y si es una falta grave?**  
+**Si es una falta leve, aplicaría una sanción temporal y lo informaría a Gabriel.  
+Si es una falta grave, primero lo consultaría con Gabriel y, si es necesario, aplicaría un baneo permanente.**
+
+## **¿Conoces bots de moderación o herramientas de gestión?**  
+**Sí**
+
